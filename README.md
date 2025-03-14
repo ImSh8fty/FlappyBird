@@ -1,8 +1,5 @@
 # Flappy Bird (2D)
 
-> Flappy Bird is a mobile game developed by Vietnamese video game artist and programmer Dong Nguyen. The game is a side-scroller where the player controls a bird, attempting to fly between columns of green pipes without hitting them.
+Exactly How You Remember It... Same Old Rage Inducing Flappy Bird
 
-- **Topics**: Side Scrolling, Infinite Generation, Parallax
-- **Version**: Unity 2019.4 (LTS)
-- [**Download**](https://github.com/zigurous/unity-flappy-bird-tutorial/archive/refs/heads/main.zip)
-- [**Watch Video**](https://youtu.be/ihvBiJ1oC9U)
+I really misssed playing this game, but obvisouly it's been taken out of app stores... So I decided to make my own :)
